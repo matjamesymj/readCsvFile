@@ -1,0 +1,1 @@
+Quick little code test to read a csv file of vehicles of 2 types. car and bike. Must read and map to objects.
