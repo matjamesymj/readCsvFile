@@ -12,6 +12,7 @@ public class ReadCsvFileHelper {
 
     public List<Vehicle> processInputFile(String filePath) throws FileNotFoundException {
 
+
         List<Vehicle> vehicleList = new ArrayList<>();
         String line = "";
 

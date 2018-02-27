@@ -29,4 +29,8 @@ public abstract class Vehicle {
     public void setMake(String make) {
         Make = make;
     }
+
+    public String exampleSuperMethod(){
+        return "Super vehicle";
+    }
 }
